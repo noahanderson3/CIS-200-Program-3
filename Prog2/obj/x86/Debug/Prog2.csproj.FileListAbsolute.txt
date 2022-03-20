@@ -1,0 +1,225 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_11S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Progs\Prog2\Prog2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Progs\Prog2\Prog2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog2\Prog2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_18S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.csprojAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\Prog2.csprojAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2 - Copy\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csprojAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_19S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csprojAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_20S\Progs\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\bin\Debug\Prog2.exe
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\bin\Debug\Prog2.pdb
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.cache
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.PatronEdit.resources
+C:\Users\Noah\Desktop\Prog2\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.BookEdit.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\bin\Debug\Prog2.exe
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\bin\Debug\Prog2.pdb
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.BookEdit.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.PatronEdit.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.cache
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\Noah\Desktop\School\CIS\CIS 200 Items\Prog3\Prog2-EC\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\bin\Debug\Prog2.exe
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\bin\Debug\Prog2.pdb
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\Prog2.csproj.AssemblyReference.cache
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\Prog2.csproj.SuggestedBindingRedirects.cache
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\LibraryItems.BookEdit.resources
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\LibraryItems.PatronEdit.resources
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.cache
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\noaha\Desktop\School\Previous Courses\School\CIS\CIS 200 Items\Prog3\Prog3\Prog2\obj\x86\Debug\Prog2.pdb
